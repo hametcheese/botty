@@ -13,7 +13,7 @@ dependencies:
     - pyinstaller
     - opencv-python==4.5.5.64
     - transitions
-    - mss
+    - mss==7.0.1
     - numpy
     - mouse
     - keyboard
@@ -35,3 +35,4 @@ dependencies:
     - typing_extensions
     - colorama
     - dataclasses-json
+    - pyparsing

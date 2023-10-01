@@ -3,7 +3,7 @@ from config import Config
 import numpy as np
 
 from messages.generic_api import GenericApi
-from messages.discord_embeds import DiscordEmbeds
+# from messages.discord_embeds import DiscordEmbeds
 
 
 class Messenger:

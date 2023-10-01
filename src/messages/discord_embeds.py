@@ -4,10 +4,10 @@ from logger import Logger
 import cv2
 import datetime
 import traceback
-import discord
+# import discord
 from version import __version__
 import numpy as np
-from discord import Webhook, RequestsWebhookAdapter, Color, InvalidArgument
+# from discord import Webhook, RequestsWebhookAdapter, Color, InvalidArgument
 import json
 class DiscordEmbeds(GenericApi):
     def __init__(self):
